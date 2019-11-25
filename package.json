@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A template for making a website hosted on github pages",
   "main": "index.js",
-  "homepage": "https://moritzbrantner.github.io/gh-pages-template.git",
+  "homepage": "https://moritzbrantner.github.io/gh-pages-template",
   "scripts": {
     "deploy": "gh-pages -d build"
   },
