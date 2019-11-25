@@ -1,0 +1,30 @@
+{
+  "name": "gh-pages-template",
+  "version": "1.0.0",
+  "description": "A template for making a website hosted on github pages",
+  "main": "index.js",
+  "homepage": "https://USERNAME.github.io/REPOSITORY.git",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moritzbrantner/gh-pages-template.git"
+  },
+  "keywords": [
+    "github",
+    "pages",
+    "website",
+    "hosting",
+    "static",
+    "template"
+  ],
+  "author": "Moritz Brantner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moritzbrantner/gh-pages-template/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
